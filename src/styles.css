@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.ant-carousel .slick-slider .slick-track, .ant-carousel .slick-slider .slick-list {
+  height: 100%;
+}
+
+.ant-carousel .slick-slider {
+  height: 100%;
+}
+
